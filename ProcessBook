@@ -1,0 +1,24 @@
+# process Book
+
+## 05-06-2019
+
+Today I started my project, wrote my project proposal and made my design document. Did a standup with Levy and Luc, 
+because I did not have a group of my own yet. We talked about our ideas mostly, not yet about the implementation of them.
+
+## 06-06-2019
+
+I had my mentor-group with Natasja today, there we talked about the process of the entire course. 
+I found firebase online, which is a google database in which data can be saved securely with the extra benefit that
+my database alawys works and not only when I host it myself (such as Rester). Therefore I decided I want to try to 
+implement this database instead of Rester. Natasja discouraged this, but offered to help me with it anyway since she
+has some experience with firebase.
+Secondly I am doubting between two API's I could use to render my map. The first is the most obvious one: google maps API.
+The second is Mapbox. I am leaning towards Mapbox, since it allows for a more custom style implementation and is cheaper in big use.
+
+Google maps seems easier however, so I might still switch if Mapbox turns out to give to much trouble.
+
+## 07-06-2019
+
+Had my first standup with my definitive group: Felix and Darian. We discussed about the API's and Darian recommended me to use Google maps
+because it worked so easily for him. If mapbox still doesn't work by tomorrow I will switch. 
+Furthermore they encouraged me to use firebase, but pointed out that Rester might be easier because we have a lot of experience with it.
